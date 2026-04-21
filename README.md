@@ -186,10 +186,7 @@ openpyxl
 
 ## Author
 
-Built by **YOUR NAME**
+Built by Pratyaksh Singhal
 
----
-
-## License
 
 MIT License — free to use, modify, and share.
