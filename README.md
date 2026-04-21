@@ -189,4 +189,4 @@ openpyxl
 Built by Pratyaksh Singhal
 
 
-MIT License — free to use, modify, and share.
+— free to use, modify, and share.
