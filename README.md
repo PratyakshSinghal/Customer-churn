@@ -58,6 +58,7 @@ churn-dashboard/
 ├── prepared_data.pkl       # Preprocessed features (generated)
 ├── model.pkl               # Trained model bundle (generated)
 │
+├── requirements(1).txt 
 └── README.md               # This file
 ```
 
